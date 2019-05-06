@@ -1,0 +1,3 @@
+[submodule "common-module"]
+	path = common-module
+	url = git@github.com:AvoH/common-module.git
